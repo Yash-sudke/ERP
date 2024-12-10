@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-10T10:35:55 IST" name="Test Suite" finished-at="2024-12-10T10:36:10 IST" duration-ms="15277">
+    <groups>
+    </groups>
+    <test started-at="2024-12-10T10:35:55 IST" name="Sample Test" finished-at="2024-12-10T10:36:10 IST" duration-ms="15277">
+      <class name="com.qa.testcases.Safrantest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:35:55 IST" name="setUp" finished-at="2024-12-10T10:35:58 IST" duration-ms="3677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:35:58 IST" name="loginPageTitleTest" finished-at="2024-12-10T10:35:58 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:35:58 IST" name="tearDown" finished-at="2024-12-10T10:35:59 IST" duration-ms="402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginPageTitleTest status=SUCCESS method=Safrantest.loginPageTitleTest()[pri:1, instance:com.qa.testcases.Safrantest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:35:59 IST" name="setUp" finished-at="2024-12-10T10:36:01 IST" duration-ms="2253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogoImageTest()[pri:2, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:01 IST" name="LogoImageTest" finished-at="2024-12-10T10:36:01 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoImageTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:01 IST" name="tearDown" finished-at="2024-12-10T10:36:01 IST" duration-ms="111" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LogoImageTest status=SUCCESS method=Safrantest.LogoImageTest()[pri:2, instance:com.qa.testcases.Safrantest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:01 IST" name="setUp" finished-at="2024-12-10T10:36:06 IST" duration-ms="5082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:3, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:06 IST" name="loginTest" finished-at="2024-12-10T10:36:07 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:07 IST" name="tearDown" finished-at="2024-12-10T10:36:07 IST" duration-ms="131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=Safrantest.loginTest()[pri:3, instance:com.qa.testcases.Safrantest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:07 IST" name="setUp" finished-at="2024-12-10T10:36:09 IST" duration-ms="2279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginsucess()[pri:4, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:09 IST" name="verifyLoginsucess" finished-at="2024-12-10T10:36:10 IST" duration-ms="602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginsucess -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:10 IST" name="tearDown" finished-at="2024-12-10T10:36:10 IST" duration-ms="140" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginsucess status=SUCCESS method=Safrantest.verifyLoginsucess()[pri:4, instance:com.qa.testcases.Safrantest@1ed1993a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="sendReportAfterSuite()[pri:0, instance:com.qa.testcases.Safrantest@1ed1993a]" started-at="2024-12-10T10:36:10 IST" name="sendReportAfterSuite" finished-at="2024-12-10T10:36:16 IST" duration-ms="5909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendReportAfterSuite -->
+      </class> <!-- com.qa.testcases.Safrantest -->
+    </test> <!-- Sample Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>

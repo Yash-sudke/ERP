@@ -1,0 +1,11 @@
+browser=chrome
+
+Safran
+url1= https://intraruntime.kagamierp.com/SFRNTest/login
+safusername=admin
+safpassword=admin
+
+url2=https://www.website2.com/login
+url3=https://www.website3.com/login
+url4=https://www.website4.com/login
+url5=https://www.website5.com/login

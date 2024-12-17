@@ -73,7 +73,7 @@ public class Extendsreports {
 				return;
 			}
 			
-			String recipientEmail = "pradeep.chandra@bitkemy.com"; // Replace with recipient email
+			String recipientEmail = "yash.sudke@bitkemy.com"; // Replace with recipient email
 			String subject = "Test Automation Report";
 			String body = "Hi Team,\n\nPlease find the attached test automation report.\n\nThanks,\nAutomation Team";
 
